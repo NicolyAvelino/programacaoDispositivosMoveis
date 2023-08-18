@@ -1,4 +1,3 @@
-# programacaoDispositivosMoveis
 <h1 align="center">
   Programação para Dispositivos Móveis
   <br>
