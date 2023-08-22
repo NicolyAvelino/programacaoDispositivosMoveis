@@ -17,7 +17,8 @@ fun main() {
     var pg: Double
     var preco: Double
     
-    println("CARDÁPIO \nEspecificação Código Preço \nCachorro quente 100 1.20 \nBauru simples 101 1.30 \nBauru com ovo 102 1.50 \nHambúrger 103 1.20 \nCheeseburguer 104 1.30 \nRefrigerante 105 1.00\n")
+    println("CARDÁPIO \nEspecifição - Código - Preço \nCachorro quente - 100 - 1.20 \nBauru simples - 101 - 1.30 \nBauru com ovo - 102 - 1.50 \nHambúrger - 103 - 1.20 \nCheeseburguer - 104 - 1.30 \nRefrigerante - 105 - 1.00\n")
+
     
     print("Digite o código do item pedido: ")
     cd = readLine().toString().toInt()

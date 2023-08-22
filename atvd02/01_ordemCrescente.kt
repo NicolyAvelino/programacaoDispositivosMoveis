@@ -6,13 +6,13 @@ fun main() {
     var n2: Int
     var n3: Int
     
-    println("Digite o 1º numero: ")
+    print("Digite o 1º numero: ")
     n1 = readLine().toString().toInt()
     
-    println("Digite o 2º numero: ")
+    print("Digite o 2º numero: ")
     n2 = readLine().toString().toInt()
 
-    println("Digite o 3º numero: ")
+    print("Digite o 3º numero: ")
     n3 = readLine().toString().toInt()
     
     if (n3 > n1){

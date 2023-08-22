@@ -30,7 +30,7 @@ fun main() {
     if(media >= 7){
         println("\nParabéns, você foi aprovado!\nSua média é: $media")
     } else {
-        println("\nInfelizmente, você não foi aprovado!\nSua média é: $media")
+        println("\nInfelizmente, você foi reprovado!\nSua média é: $media")
     }
     
     
