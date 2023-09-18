@@ -6,7 +6,6 @@ fun main() {
     val numOrdenadosCrescente = num.sortedBy { it }
     val numOrdenadosDecrescente = num.sortedBy { -it }
 
-    // Exibe a lista ordenada
     println("Números Crescente: $numOrdenadosCrescente \nNúmeros Decrescente: $numOrdenadosDecrescente")
 }
 
